@@ -1,4 +1,5 @@
 # patricia Card Screen
+Hides card number on Patricia card
 
 ## Project setup
 ```
